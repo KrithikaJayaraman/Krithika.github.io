@@ -41,11 +41,10 @@ enableEmoji = true
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:#"
-        text = "+1-(425)-589-9853"
+
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:#"
+        url = "mailto:connect.krithi@gmail.com"
         text = "connect.krithi@gmail.com"
         [[params.contact.list]]
         icon = "fab fa-github-square"
