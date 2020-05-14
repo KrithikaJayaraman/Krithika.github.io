@@ -40,12 +40,15 @@ enableEmoji = true
         location = "Greater Seattle Area, Washington"
 
         [[params.contact.list]]
-        icon = "fas fa-phone-square"
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/krithika-jayaraman"
+        title = "LinkedIn Profile"
 
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:connect.krithi@gmail.com"
         text = "connect.krithi@gmail.com"
+        
         [[params.contact.list]]
         icon = "fab fa-github-square"
         url = "//github.com/KrithikaJayaraman"
