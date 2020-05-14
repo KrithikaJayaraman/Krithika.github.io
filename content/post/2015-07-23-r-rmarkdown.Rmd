@@ -1,0 +1,25 @@
+---
+title: "My cool website"
+author: "Krithika Jayaraman"
+date: 2015-07-23T21:13:14-05:00
+output:
+  html_document:
+    theme: united
+  knitrBootstrap::bootstrap_document:
+    theme.chooser: TRUE
+    highlight.chooser: TRUE
+---
+
+
+
+
+```{r cars}
+options(width = 120)
+rmarkdown::pandoc_version()
+```
+
+
+```
+<iframe src="https://public.tableau.com/views/InternationalVisitorstotheUS-InteractiveViz/TouristOrigins?:display_count=y&amp:origin=viz_share_link:showVizHome=no&amp:embed=true" width="900" height="780" style="border: none;"></iframe>
+```
+

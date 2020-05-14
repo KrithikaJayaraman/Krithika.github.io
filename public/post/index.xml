@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My cool website</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>options(width = 120)rmarkdown::pandoc_version()## [1] &amp;#39;2.6&amp;#39;&amp;lt;iframe src=&amp;quot;https://public.tableau.com/views/InternationalVisitorstotheUS-InteractiveViz/TouristOrigins?:display_count=y&amp;amp;amp:origin=viz_share_link:showVizHome=no&amp;amp;amp:embed=true&amp;quot; width=&amp;quot;900&amp;quot; height=&amp;quot;780&amp;quot; style=&amp;quot;border: none;&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>
