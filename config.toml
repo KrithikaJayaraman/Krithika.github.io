@@ -214,6 +214,14 @@ enableEmoji = true
         meta = "Open Source"
         tagline = "Predicting UBER stock price with historic data using ARIMA Modelling"
         
+        
+        [[params.projects.list]]
+        title = "Real-estate Investment Cash Flow Analysis using MS Excel and RISK Optimizer"
+        meta = "Open Source"
+        tagline = "The objective of this project is to evaluate a couple of real estate assets that are considered for investment. We use Discounted Cash Flow model coupled with Monte Carlo Simulation to estimate the Net Present Value (NPV) of the properties under consideration and thereby identify which one is an attractive opportunity."
+
+        
+        
         [[params.projects.list]]
         title = "Rental Property Investment Analysis in Python"
         meta = "Open Source"
@@ -239,6 +247,10 @@ enableEmoji = true
         meta = "data.world"
         tagline = "Take a look at diversity trends in workplace. "
         
+        [[params.projects.list]]
+        title = "Animations in R"
+        meta = "Our World in Data"
+        tagline = "This is a part of a series 'My Experiments with R'. Check out the cool animations in R."
 
     [params.social]
         enable = true
