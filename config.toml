@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://krithika.github.io"
+baseURL = "https://krithikajayaraman.github.io/"
 languageCode = "en"
 title = "My website"
 theme = "hugo-devresume-theme"
